@@ -12,7 +12,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Prince~scl/fi/e0b725u5rdcal0dcy13uy/g5rJvH2UcQ.json?rlkey=34zf4ia5g8i9kk5obqdezlbwx&dl=0",
+      "description": "put your session ID here in the box below",
       "required": true,
       "value": "Prince~scl/fi/e0b725u5rdcal0dcy13uy/g5rJvH2UcQ.json?rlkey=34zf4ia5g8i9kk5obqdezlbwx&dl=0"
     },
